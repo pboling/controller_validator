@@ -59,6 +59,7 @@ class ValidateThingOnCreate < ControllerValidator::Validator
   def initialize()
     @too_many = Thing.count > 100
     @no_bobs = Bob.count == 0
+    super
   end
 
   def validate!
