@@ -3,6 +3,32 @@
 Simple Validations in the Controller!
 (Re)Use the familiar ActiveModel::Errors pattern for controller validations, so you already know how this works.
 
+| Project                 |  ControllerValidator    |
+|------------------------ | ----------------- |
+| gem name                |  controller_validator   |
+| license                 |  MIT              |
+| expert support          |  [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/peterboling?utm_source=github&utm_medium=button&utm_term=peterboling&utm_campaign=github) |
+| download rank               |  [![Total Downloads](https://img.shields.io/gem/rt/controller_validator.svg)](https://rubygems.org/gems/controller_validator) |
+| version                 |  [![Gem Version](https://badge.fury.io/rb/controller_validator.png)](http://badge.fury.io/rb/controller_validator) |
+| dependencies            |  [![Dependency Status](https://gemnasium.com/pboling/controller_validator.png)](https://gemnasium.com/pboling/controller_validator) |
+| code quality            |  [![Code Climate](https://codeclimate.com/github/pboling/controller_validator.png)](https://codeclimate.com/github/pboling/controller_validator) |
+| inline documenation     |  [![Inline docs](http://inch-ci.org/github/pboling/controller_validator.png)](http://inch-ci.org/github/pboling/controller_validator) |
+| continuous integration  |  [![Build Status](https://secure.travis-ci.org/pboling/controller_validator.png?branch=master)](https://travis-ci.org/pboling/controller_validator) |
+| test coverage           |  [![Coverage Status](https://coveralls.io/repos/pboling/controller_validator/badge.png)](https://coveralls.io/r/pboling/controller_validator) |
+| homepage                |  [on Github.com][homepage] |
+| documentation           |  [on Rdoc.info][documentation] |
+| live chat               |  [![Join the chat at https://gitter.im/pboling/controller_validator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pboling/controller_validator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
+| Spread ~♡ⓛⓞⓥⓔ♡~      |  [on Coderbits][coderbits], [on Coderwall][coderwall] |
+
+[semver]: http://semver.org/
+[pvc]: http://docs.rubygems.org/read/chapter/16#page74
+[railsbling]: http://www.railsbling.com
+[peterboling]: http://www.peterboling.com
+[coderbits]: https://coderbits.com/pboling
+[coderwall]: http://coderwall.com/pboling
+[documentation]: http://rdoc.info/github/pboling/controller_validator/frames
+[homepage]: https://github.com/pboling/controller_validator
+
 ## Installation
 
 Add this line to your application's Gemfile:
