@@ -26,7 +26,7 @@ Simple Validations in the Controller!
 [peterboling]: http://www.peterboling.com
 [coderbits]: https://coderbits.com/pboling
 [coderwall]: http://coderwall.com/pboling
-[documentation]: http://rdoc.info/github/pboling/controller_validator/frames
+[documentation]: http://rubydoc.info/gems/controller_validator
 [homepage]: https://github.com/pboling/controller_validator
 
 ## Installation
