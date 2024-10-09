@@ -16,7 +16,7 @@ Simple Validations in the Controller!
 | continuous integration  |  [![Build Status](https://secure.travis-ci.org/pboling/controller_validator.png?branch=master)](https://travis-ci.org/pboling/controller_validator) |
 | test coverage           |  [![Coverage Status](https://coveralls.io/repos/pboling/controller_validator/badge.png)](https://coveralls.io/r/pboling/controller_validator) |
 | homepage                |  [on Github.com][homepage] |
-| documentation           |  [on Rdoc.info][documentation] |
+| documentation           |  [on RubyDoc.info][documentation] |
 | live chat               |  [![Join the chat at https://gitter.im/pboling/controller_validator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pboling/controller_validator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
 | Spread ~♡ⓛⓞⓥⓔ♡~      |  [on Coderbits][coderbits], [on Coderwall][coderwall] |
 
